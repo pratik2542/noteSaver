@@ -13,7 +13,7 @@
     "data:destroy": "node backend/seeder -d"
   },
   "author": "Mordern Developer",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
